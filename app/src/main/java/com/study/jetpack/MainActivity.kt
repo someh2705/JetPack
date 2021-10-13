@@ -1,4 +1,4 @@
-git package com.study.jetpack
+package com.study.jetpack
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
